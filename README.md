@@ -8,7 +8,7 @@ Wars are another aspect of the game where clans face other clans based on certai
 
 This bot was developed for the purpose of helping I and my clanmates with Wars by making it easier for us to build teams that meet the criteria of various war rules. This bot displays a graphical representation of all available characters in a certain war. With this, the amount of times a player breaks a rule by using an invalid character would be alleviated. 
 
-The graphical representation of the characters was achieved with the use of Pillow. An Imaging library in Python. It adds image processing capabilities to the Python interpreter.
+The graphical representation of the characters was achieved with the use of Pillow; An Imaging library in Python. It adds image processing capabilities to the Python interpreter.
 
 
 **Disclaimer:** When using this repository you confirm that you have read the [license](LICENSE) and comprehend that I can take down your repository if you do not meet these requirements
