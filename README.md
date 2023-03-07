@@ -31,12 +31,12 @@ python -m pip install -U discord.py
 ```
 python -m pip install pillow
 ```
-* Must have a Discord account and a discord server
+* Must have a Discord account and a Discord server
 
 
 # How to Set Up
 To set up this bot, you should do the following:
-* Clone this repository using `git clone` < url >. Unfamiliar with Git? Check [Here](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners). Don't have Git installed? Download Git [Here](https://git-scm.com/downloads). 
+* Clone this repository using `git clone < url >`. Unfamiliar with Git? Check [Here](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners). Don't have Git installed? Download Git [Here](https://git-scm.com/downloads). 
 * Learn how to create a Discord bot [here](https://www.makeuseof.com/how-to-make-discord-bot/)
 
    Alternatively:
