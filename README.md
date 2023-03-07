@@ -63,6 +63,8 @@ To type multiple characters in one message, the user should separate each charac
 
 Characters names in the sent messages must be spelt according to how they are spelt in the "characters" dictionary.
 
+Messages should only contain a characters name or multiple characters name
+
 
 # Contributing
 Contributions, feedback, and bug reports are welcome!
