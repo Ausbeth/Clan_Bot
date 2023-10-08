@@ -481,4 +481,4 @@ async def on_message(message):
     # Send a message with the combined image
     await message.channel.send(f"Here are the characters that are open in your war:", file=discord.File(buffer, filename="open_characters.jpg"))
  
-client.run('MTA3OTY4MTEzNzgyOTQ5NDc5NQ.G2qFwY.xRjsGvtdVW8wdtUDAn28GRCVMJAlb5r6UpL2hk')
+client.run('<Your Bot's Token>')
